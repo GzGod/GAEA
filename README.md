@@ -49,5 +49,5 @@
     在安装好依赖并配置 `proxy.txt` 文件后，可以运行脚本：
 
     ```bash
-    pytho main.py
+    python main.py
     ```
